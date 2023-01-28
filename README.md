@@ -1,5 +1,5 @@
 
-- 🌱 I’m a student of Ural Federal University Institute of Physical Technologys, I am interested in backend development in C++, I have created several projects related to mathematical and statistical data processing, I also study the Python libraries Numpy and PyDicom 
+- 🌱 I’m a student of Ural Federal University Institute of Physical Technologys, I am interested in backend development in C++, I have created several projects related to mathematical and statistical data processing and machine learning.
 -
 
 <!---
